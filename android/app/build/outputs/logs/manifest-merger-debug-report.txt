@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.react:react-native:0.58.5] /home/smartsense/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/952dee5e69a8d159b2e952b09e7fca46/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/09949912ce6d599398a66f329e383503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7d9861de6305f9e21ffc0614a4d22a41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/65bc669ee6284bd7a523c6563344bef3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/354eec30916af9049e9c87511c80c808/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f066f389517767590e60c6c23a800487/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f8cfde0bf8f1b61cc260d965736a2bf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6e3b66ec410786851151366b907af483/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f8611659767b2d9ec3c7b42eb9a990a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fea2e95c2254c6b135e43f878095298b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e04293db64e5720b4c2b5960a9f013d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/18cc2ffb36436ca092ee096124e152f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1bc8875f1e9d29267ac4eccd03f5d037/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2f4c0f67a8067e77833c63a0b55b2c09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/09e12cd7541f047daada86b9e81744ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3e3f48196b679e97d91a638b6220ba53/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1efe3bd209354485fe08240810dd954c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/def522d30a9fb07aeac8e8b9f1b18a3a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6ca8e807553c6a4b6719173d34841b06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b16dc00785475de45c1365aafde388ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8c0655c7e30687b95a316bee09ce5d1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2d8575c4674f5b394f84b3df44488300/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/147b73b8768c8ea543f18b1678fdb4a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d93eba8128e6f8588d9a8805662cea9d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ed643e2bac4f86d94a686fc67bc799c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/db2cf017f4009ce52232ee4882a31475/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ff5e52d62e92ad593330c50ec5343c98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/106e2ff38b763b4558e8d20645bfb2b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d990acf97418c459200552d99978f331/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8e0cc79c4fa84d36a7eeedacc3afd9a2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7427b0ee6de2410c7574a6812c19e9d1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/07a1cc81ee68851a70228988472f5da3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/3243d0ababb5adc61fffdf0ad77d73ea/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/smartsense/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5045e91d5ef34c7122c0f8ba6788e816/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/52cc145c6846b2dd1865810ae313329c/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.5] /home/smartsense/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/952dee5e69a8d159b2e952b09e7fca46/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.5] /home/smartsense/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/952dee5e69a8d159b2e952b09e7fca46/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.5] /home/smartsense/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/952dee5e69a8d159b2e952b09e7fca46/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.5] /home/smartsense/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/952dee5e69a8d159b2e952b09e7fca46/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3e3f48196b679e97d91a638b6220ba53/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3e3f48196b679e97d91a638b6220ba53/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1efe3bd209354485fe08240810dd954c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1efe3bd209354485fe08240810dd954c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/3243d0ababb5adc61fffdf0ad77d73ea/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/3243d0ababb5adc61fffdf0ad77d73ea/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/smartsense/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5045e91d5ef34c7122c0f8ba6788e816/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/smartsense/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5045e91d5ef34c7122c0f8ba6788e816/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3e3f48196b679e97d91a638b6220ba53/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.pagination.MainActivity
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.58.5] /home/smartsense/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/952dee5e69a8d159b2e952b09e7fca46/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /home/smartsense/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/952dee5e69a8d159b2e952b09e7fca46/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/09949912ce6d599398a66f329e383503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/09949912ce6d599398a66f329e383503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7d9861de6305f9e21ffc0614a4d22a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7d9861de6305f9e21ffc0614a4d22a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/65bc669ee6284bd7a523c6563344bef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/65bc669ee6284bd7a523c6563344bef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/354eec30916af9049e9c87511c80c808/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/354eec30916af9049e9c87511c80c808/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f066f389517767590e60c6c23a800487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f066f389517767590e60c6c23a800487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f8cfde0bf8f1b61cc260d965736a2bf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f8cfde0bf8f1b61cc260d965736a2bf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6e3b66ec410786851151366b907af483/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6e3b66ec410786851151366b907af483/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f8611659767b2d9ec3c7b42eb9a990a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f8611659767b2d9ec3c7b42eb9a990a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fea2e95c2254c6b135e43f878095298b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fea2e95c2254c6b135e43f878095298b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e04293db64e5720b4c2b5960a9f013d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e04293db64e5720b4c2b5960a9f013d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/18cc2ffb36436ca092ee096124e152f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/18cc2ffb36436ca092ee096124e152f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1bc8875f1e9d29267ac4eccd03f5d037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1bc8875f1e9d29267ac4eccd03f5d037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2f4c0f67a8067e77833c63a0b55b2c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2f4c0f67a8067e77833c63a0b55b2c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/09e12cd7541f047daada86b9e81744ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/09e12cd7541f047daada86b9e81744ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3e3f48196b679e97d91a638b6220ba53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3e3f48196b679e97d91a638b6220ba53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1efe3bd209354485fe08240810dd954c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1efe3bd209354485fe08240810dd954c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/def522d30a9fb07aeac8e8b9f1b18a3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/def522d30a9fb07aeac8e8b9f1b18a3a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6ca8e807553c6a4b6719173d34841b06/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6ca8e807553c6a4b6719173d34841b06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b16dc00785475de45c1365aafde388ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b16dc00785475de45c1365aafde388ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8c0655c7e30687b95a316bee09ce5d1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8c0655c7e30687b95a316bee09ce5d1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2d8575c4674f5b394f84b3df44488300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2d8575c4674f5b394f84b3df44488300/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/147b73b8768c8ea543f18b1678fdb4a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/147b73b8768c8ea543f18b1678fdb4a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d93eba8128e6f8588d9a8805662cea9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d93eba8128e6f8588d9a8805662cea9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ed643e2bac4f86d94a686fc67bc799c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ed643e2bac4f86d94a686fc67bc799c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/db2cf017f4009ce52232ee4882a31475/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/smartsense/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/db2cf017f4009ce52232ee4882a31475/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ff5e52d62e92ad593330c50ec5343c98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ff5e52d62e92ad593330c50ec5343c98/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/106e2ff38b763b4558e8d20645bfb2b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/106e2ff38b763b4558e8d20645bfb2b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d990acf97418c459200552d99978f331/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d990acf97418c459200552d99978f331/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8e0cc79c4fa84d36a7eeedacc3afd9a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8e0cc79c4fa84d36a7eeedacc3afd9a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7427b0ee6de2410c7574a6812c19e9d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7427b0ee6de2410c7574a6812c19e9d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/07a1cc81ee68851a70228988472f5da3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/07a1cc81ee68851a70228988472f5da3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/3243d0ababb5adc61fffdf0ad77d73ea/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/3243d0ababb5adc61fffdf0ad77d73ea/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/52cc145c6846b2dd1865810ae313329c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/smartsense/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/52cc145c6846b2dd1865810ae313329c/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/smartsense/reactNativePagination/pagination/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

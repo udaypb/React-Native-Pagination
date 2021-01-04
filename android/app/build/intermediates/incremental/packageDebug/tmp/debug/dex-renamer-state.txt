@@ -1,0 +1,4 @@
+#Wed Feb 20 17:24:56 IST 2019
+base.0=/home/smartsense/reactNativePagination/pagination/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
